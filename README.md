@@ -1,4 +1,4 @@
-# Oscillations and physics
+# Interpolations, tweens and easing functions
 A very simple implementation of tween under the hood used to animate positions.
 
 ## Used Unity Version
